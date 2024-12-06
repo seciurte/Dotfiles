@@ -1,2 +1,2 @@
 # Dotfiles
-My dotfiles repo
+My configuration for bash and tmux
